@@ -5,7 +5,6 @@
 
 [![Linkedin: anmol](https://img.shields.io/badge/-vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishdha/)](https://www.linkedin.com/in/vishdha/)
 ![GitHub followers](https://img.shields.io/github/followers/vishdha?label=Follow&style=social)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
