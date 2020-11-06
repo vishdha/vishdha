@@ -10,7 +10,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-692-blue
 
 **🐱 My Github Data** 
 
