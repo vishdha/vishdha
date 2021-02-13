@@ -10,6 +10,14 @@
 
 ---
 <!--START_SECTION:waka-->
+**🐱 Top Feature Build for Bloomstack**
+ 1. Build an autonomous cultivation and excise tax setup for the cannabis industry.
+ 2. Build financial report for Industry
+ 3. Build Statement of Account fully integrated with email which can send to the customer in one click.
+ 4. Build Average Days to Pay report to recognize and distinguish between early paying and late-paying customers.
+ 5. Made Bloomstack USE Tax compatible.
+ 6. Build Early Payment Discounting feature to reward customer discount.
+
 
 **🐱 My Github Data** 
 
