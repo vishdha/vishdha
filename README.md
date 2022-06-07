@@ -30,6 +30,7 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishdha&show_icons=true&theme=swift&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishdha&theme=swift" />
+ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). 
 </p>  
 <!--END_SECTION:waka-->
 
