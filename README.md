@@ -19,25 +19,18 @@
  6. Build Early Payment Discounting feature to reward customer discount.
 
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
-> 🏆 652 Contributions in the Year 2020
- > 
-> 📦 333.4 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 65 Public Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishdha&layout=compact)](https://github.com/vishdha/github-readme-stats)
+
 
 
 **I Mostly Code in Python** 
 
-```text
-Python                   10 repos            █████████████░░░░░░░   50.0% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░   30.5% 
-
-```
-
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishdha&show_icons=true&theme=swift&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishdha&theme=swift" />
+</p>  
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
