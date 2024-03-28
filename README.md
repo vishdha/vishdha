@@ -9,6 +9,23 @@
 
 ---
 <!--START_SECTION:waka-->
+**🐱 Top Feature Build for Farmley**
+ 1. Bring ERP in house server which Reduce cost by 75%
+ 2. Migrated ERPNext from version 13 with lots of customization to vanila erp version 14 with contributing most of required feature to community.
+ 3. Fixed Taxtation issue of Multi Branch of the company.
+ 4. POS Setup for Internal Store and Frnachise Store
+ 5. Enhance Manufacturing Module functionality by contributing operation cost per item feature which improve performance of Operation Team.
+ 6. Closly worked with Founder, Finanace Team, Logistics Team and Operation Team to bring all of them in under one umberla.
+ 7. Secondary Sales Module Added to record after sale.
+ 8. Master Carton Feature added to track Purchase to Production to Delivery via Scanning qr code of every batch.
+ 9. Automated Logistics Cost Calculation feature implemented. This is for various carrier who have there zone mapped with rate and other charges like fov, docket charges, appointment charges, fuel charges and addtional charges it give realtime exact logistics cost.
+ 10. GT Order Module Created for General Trade order recording by sales person.
+ 11. for Data Analyst Power BI linked with ERPNext to get daily updated of sales various dashboard on realtime.
+ 12. Physical Stock Voucher Implemented in ERPNext for PV of Inventory.
+ 13. Ecommerce Sales Recording integration built with integrating eshopbox to erpnext that record amazon, flipkart, cred, mystore, Shopify, Jiomart, meesho, snapdeal etc
+ 14. Amazon FBA Integration with ERPNext completed to record 3rd party sales
+ 15. Pick list modifyed according to case size and work with internal transfer and fully operatrional using barcode scanner.
+
 **🐱 Top Feature Build for Bloomstack**
  1. Build an autonomous cultivation and excise tax setup for the cannabis industry.
  2. Build financial report for Industry
