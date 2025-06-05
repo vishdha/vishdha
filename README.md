@@ -25,6 +25,8 @@
  13. Ecommerce Sales Recording integration built with integrating eshopbox to erpnext that record amazon, flipkart, cred, mystore, Shopify, Jiomart, meesho, snapdeal etc
  14. Amazon FBA Integration with ERPNext completed to record 3rd party sales
  15. Pick list modifyed according to case size and work with internal transfer and fully operatrional using barcode scanner.
+ 16. Blinkit - ERPNext EDI Integration Completed.
+ 17. Flipkart Farmley Seller Price Campersion feature developed and linked to Power BI for getting insight
 
 **🐱 Top Feature Build for Bloomstack**
  1. Build an autonomous cultivation and excise tax setup for the cannabis industry.
